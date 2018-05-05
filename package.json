@@ -1,0 +1,16 @@
+{
+    "name": "php-extension-pack",
+    "displayName": "PHP Extension Pack",
+    "description": "A collection of Visual Studio Code extensions for PHP development.",
+    "version": "0.0.1",
+    "publisher": "gerardreches",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "bmewburn.vscode-intelephense-client"
+    ]
+}
