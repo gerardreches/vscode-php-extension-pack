@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension pack "php-extension-pack"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# PHP Extension Pack
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+A collection of Visual Studio Code extensions for PHP development.
 
-**Enjoy!**
+
+| Extension | Latest Release | Rating | Installs |
+|-----------|----------------|--------|----------|
+| [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/bmewburn.vscode-intelephense-client.svg) | ![Rating](https://vsmarketplacebadge.apphb.com/rating-short/bmewburn.vscode-intelephense-client.svg) | ![Installs](https://vsmarketplacebadge.apphb.com/installs/bmewburn.vscode-intelephense-client.svg) |
